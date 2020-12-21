@@ -1,0 +1,16 @@
+{
+  "name": "pixijs-distorted-slider",
+  "version": "1.0.0",
+  "description": "PixiJs slider",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Buzzelli",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "npm:@gsap/shockingly@^3.5.1",
+    "math-fit": "^1.0.1",
+    "pixi.js": "^5.3.3"
+  }
+}
